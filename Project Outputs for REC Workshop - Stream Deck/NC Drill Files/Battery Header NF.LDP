@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\Projects\REC Workshop Test\PCB V1.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=battery header nf-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=battery header nf-slotholes.txt|DrillLayers=gtl,gbl

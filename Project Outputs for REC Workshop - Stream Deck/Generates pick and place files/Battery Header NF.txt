@@ -1,0 +1,38 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Projects\REC Workshop Test\Project Outputs for REC Workshop - Stream Deck\Generates pick and place files\Battery Header NF.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       22/08/21
+Time:       17:48
+Revision:   Not in VersionControl
+Variant:    Battery Header NF
+Units used: mil
+
+Designator Comment       Layer       Footprint                            Center-X(mil) Center-Y(mil) Rotation Description                                                                                                                               
+Y1         Crystal       BottomLayer CRYSTAL-SMD_4P-L3.2-W2.5-BL          2464.570      1370.082      135      ""                                                                                                                                        
+VR1        Regulator     BottomLayer SOT-223_L6.5-W3.5-P2.30-LS7.0-BR     2984.252      1362.205      360      ""                                                                                                                                        
+U1         MCU           BottomLayer ATMEGA32U4                           2374.016      913.386       90       "MCU 8-bit ATmega AVR RISC 32KB Flash 3.3V/5V 44-Pin TQFP"                                                                                
+S5         Button        BottomLayer SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL-2 2385.827      188.976       0        ""                                                                                                                                        
+S4         Switch        TopLayer    Mx_Alps_100                          1338.582      645.473       0        ""                                                                                                                                        
+S3         Switch        TopLayer    Mx_Alps_100                          551.182       645.473       0        ""                                                                                                                                        
+S2         Switch        TopLayer    Mx_Alps_100                          1338.582      1472.244      0        ""                                                                                                                                        
+S1         Switch        TopLayer    Mx_Alps_100                          548.032       1472.244      0        ""                                                                                                                                        
+R2         "R 10kohm"    BottomLayer R0805                                2771.653      767.716       90       ""                                                                                                                                        
+R1         "R 10kohm"    BottomLayer R0805                                1956.693      493.996       270      ""                                                                                                                                        
+J3         HDR-Bluetooth BottomLayer HDR-TH_6P-P2.54-H-W8.6_A2541HWR-6P   3007.874      492.126       270      ""                                                                                                                                        
+J2         USB           BottomLayer USB-MINI-SMD_UX60SC-MB-5S8-80        2517.716      1736.220      360      "CONN RCPT MINI USB2.0 5POS"                                                                                                              
+D5         Diode         BottomLayer Diode                                1342.520      381.890       180      "MICRO COMMERCIAL COMPONENTS - 1N4148W-TP - SWITCHING DIODE, 150mA, 100V, SOD123, FU"                                                     
+D4         Diode         BottomLayer Diode                                549.674       381.890       360      "MICRO COMMERCIAL COMPONENTS - 1N4148W-TP - SWITCHING DIODE, 150mA, 100V, SOD123, FU"                                                     
+D3         Diode         BottomLayer Diode                                1338.582      1216.536      180      "MICRO COMMERCIAL COMPONENTS - 1N4148W-TP - SWITCHING DIODE, 150mA, 100V, SOD123, FU"                                                     
+D2         Diode         BottomLayer Diode                                559.056       1216.536      360      "MICRO COMMERCIAL COMPONENTS - 1N4148W-TP - SWITCHING DIODE, 150mA, 100V, SOD123, FU"                                                     
+D1         Schottky      BottomLayer SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR    2870.074      1657.480      360      "Diode Schottky 30V 0.2A 3-Pin SOT-23 T/R"                                                                                                
+C8         "C 22PF"      BottomLayer C0805                                2259.843      1360.335      90       "Cap Ceramic 22pF 50V C0G 5% SMD 0805 125C T/R"                                                                                           
+C7         "C 22PF"      BottomLayer C0805                                2657.480      1360.335      90       "Cap Ceramic 22pF 50V C0G 5% SMD 0805 125C T/R"                                                                                           
+C6         "C 1UF"       BottomLayer C0805                                1956.693      1029.626      270      "SAMSUNG ELECTRO-MECHANICS - CL21B105KBFNNNE - SMD Multilayer Ceramic Capacitor, 1 µF, 50 V, 0805 [2012 Metric], ± 10%, X7R, CL Series"   
+C5         "C 4.7UF"     BottomLayer C0805                                1956.693      757.972       270      "SAMSUNG ELECTRO-MECHANICS - CL21A475KAQNNNE - SMD Multilayer Ceramic Capacitor, 4.7 µF, 25 V, 0805 [2012 Metric], ± 10%, X5R, CL Series" 
+C4         "C 0.1UF"     BottomLayer C0805                                2234.347      476.378       180      "CAP CER 100PF 50V C0G/NP0 0805"                                                                                                          
+C3         "C 0.1UF"     BottomLayer C0805                                2527.559      476.378       360      "CAP CER 100PF 50V C0G/NP0 0805"                                                                                                          
+C2         "C 0.1UF"     BottomLayer C0805                                2771.653      1035.433      270      "CAP CER 100PF 50V C0G/NP0 0805"                                                                                                          
+C1         "C 0.1UF"     BottomLayer C0805                                2125.984      1360.335      270      "CAP CER 100PF 50V C0G/NP0 0805"                                                                                                          
